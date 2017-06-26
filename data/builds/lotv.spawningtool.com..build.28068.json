@@ -1,0 +1,177 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Timing Attack", 
+    "name": "Maru's Economic Marine-Mine drop (TvZ Timing Attack)", 
+    "url": "http://lotv.spawningtool.com/build/28068/", 
+    "race": "Terran", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:17", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:55", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  2:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  2:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  2:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:25", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 26, 
+            "time": "  2:55", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 26, 
+            "time": "  3:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stimpack"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  3:25", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 38, 
+            "time": "  3:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 42, 
+            "time": "  3:55", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 45, 
+            "time": "  4:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Targeting Optics"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 45, 
+            "time": "  4:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Medivac x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 49, 
+            "time": "  4:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Widow Mine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 56, 
+            "time": "  4:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Bunker"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 58, 
+            "time": "  4:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 60, 
+            "time": "  4:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Targeting Optics"
+        }
+    ]
+}

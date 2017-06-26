@@ -1,0 +1,265 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Economic", 
+    "name": "Reaper FE - Fast 3 CC - No Hellion - Bio Liberator (TvZ Economic)", 
+    "url": "http://lotv.spawningtool.com/build/6620/", 
+    "race": "Terran", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Reaper"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  2:29", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 30, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 30, 
+            "time": "  3:14", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Starport"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 33, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Tech Lab"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 33, 
+            "time": "  3:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Liberator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  3:44", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 36, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 42, 
+            "time": "  4:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 44, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 45, 
+            "time": "  4:28", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stimpack"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 48, 
+            "time": "  4:38", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Engineering Bay x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 56, 
+            "time": "  5:03", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 56, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 59, 
+            "time": "  5:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Terran Infantry Weapons Level 1"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 62, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 69, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 69, 
+            "time": "  5:54", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Reactor x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 84, 
+            "time": "  6:17", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Medivac x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 93, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Combat Shields"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 90, 
+            "time": "  6:25", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Armory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 91, 
+            "time": "  6:29", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 93, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Widow Mine x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 124, 
+            "time": "  7:24", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Terran Infantry Weapons Level 2"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "All-In", 
+    "name": "PvZ 7 Gate All-In (PvZ All-In)", 
+    "url": "http://lotv.spawningtool.com/build/6616/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Nexus"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zealot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Mothership Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Gate"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Robotics Facility"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 33, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }
+    ]
+}

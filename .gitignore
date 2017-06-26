@@ -1,0 +1,12 @@
+# Visual Studio
+.vs
+.vscode
+
+# python
+*.pyc
+
+# starcraft 2 replay files
+*.SC2Replay
+
+# mac?
+*.DS_Store

@@ -1,0 +1,449 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Economic", 
+    "name": "CC First - 3 Rax - Fast 3 CC - Bio w/ Air & Ghosts (TvP Economic)", 
+    "url": "http://lotv.spawningtool.com/build/6621/", 
+    "race": "Terran", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 12, 
+            "time": "  0:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:13", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:18", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:25", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 18, 
+            "time": "  1:14", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 18, 
+            "time": "  1:19", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:33", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  2:02", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:19", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:31", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 26, 
+            "time": "  2:46", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Bunker"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  3:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Tech Lab"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  3:06", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 36, 
+            "time": "  3:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stimpack"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 39, 
+            "time": "  3:33", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 44, 
+            "time": "  3:54", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 44, 
+            "time": "  4:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 46, 
+            "time": "  4:07", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 48, 
+            "time": "  4:16", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 50, 
+            "time": "  4:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Engineering Bay"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 52, 
+            "time": "  4:31", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 52, 
+            "time": "  4:33", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Tech Lab"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 55, 
+            "time": "  4:47", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Starport"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 58, 
+            "time": "  4:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Terran Infantry Weapons Level 1"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 63, 
+            "time": "  5:09", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 66, 
+            "time": "  5:13", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 66, 
+            "time": "  5:18", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 72, 
+            "time": "  5:31", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Combat Shields"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 75, 
+            "time": "  5:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 75, 
+            "time": "  5:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 80, 
+            "time": "  5:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Missile Turret"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 84, 
+            "time": "  5:59", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 84, 
+            "time": "  6:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 84, 
+            "time": "  6:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Liberator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 91, 
+            "time": "  6:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 91, 
+            "time": "  6:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 102, 
+            "time": "  6:53", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 103, 
+            "time": "  6:57", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 113, 
+            "time": "  7:15", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 117, 
+            "time": "  7:16", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Terran Infantry Armor Level 1"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 123, 
+            "time": "  7:36", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 126, 
+            "time": "  7:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Armory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 126, 
+            "time": "  7:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Engineering Bay"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 132, 
+            "time": "  8:08", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 132, 
+            "time": "  8:13", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks Reactor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 135, 
+            "time": "  8:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Command Center"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 136, 
+            "time": "  8:24", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }
+    ]
+}

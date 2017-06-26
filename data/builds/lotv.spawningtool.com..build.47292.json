@@ -1,0 +1,273 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Timing Attack", 
+    "name": "2 Tanks & 8 Marines Drop on 1 Base by 3:50 (TvT Timing Attack)", 
+    "url": "http://lotv.spawningtool.com/build/47292/", 
+    "race": "Terran", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:02", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:14", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:17", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:28", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Action"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  0:57", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  0:58", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Refinery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 18, 
+            "time": "  1:09", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Action"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  1:28", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  1:34", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  1:46", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  1:47", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  1:58", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Orbital Command"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:11", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Starport"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:18", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Factory Tech Lab"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:24", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Action"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  2:36", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  2:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Barracks"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  2:47", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Medivac"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  2:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 32, 
+            "time": "  2:53", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 36, 
+            "time": "  3:12", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 36, 
+            "time": "  3:14", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Supply Depot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 38, 
+            "time": "  3:18", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Medivac"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 39, 
+            "time": "  3:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 40, 
+            "time": "  3:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Marine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 41, 
+            "time": "  3:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "SCV"
+        }
+    ]
+}

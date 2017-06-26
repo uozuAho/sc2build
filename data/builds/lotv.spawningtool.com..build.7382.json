@@ -1,0 +1,105 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "All-In", 
+    "name": "Solar - 2base Roach/Ravager SpeedLing Allin (ZvT All-In)", 
+    "url": "http://lotv.spawningtool.com/build/7382/", 
+    "race": "Zerg", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Hatchery"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 18, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Extractor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Spawning Pool"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Queen x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 23, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x3"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Roach Warren"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord x3"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Roach x5"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 44, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Ravager x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 46, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling"
+        }
+    ]
+}

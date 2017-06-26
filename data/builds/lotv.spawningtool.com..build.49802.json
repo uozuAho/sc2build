@@ -1,0 +1,297 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Economic", 
+    "name": "Beginner Protoss Opening - The PiG Daily #155 (PvX Economic)", 
+    "url": "http://lotv.spawningtool.com/build/49802/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 12, 
+            "time": "  0:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:11", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  0:49", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 18, 
+            "time": "  1:12", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:24", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Nexus"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:36", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  2:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Probe (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:12", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Gate"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:34", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Mothership Core (Chrono Boost)"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 28, 
+            "time": "  2:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 28, 
+            "time": "  2:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  2:57", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  3:12", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 35, 
+            "time": "  3:14", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 41, 
+            "time": "  3:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Robotics Facility"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 41, 
+            "time": "  3:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Twilight Council"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 43, 
+            "time": "  3:51", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 47, 
+            "time": "  4:15", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x3"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 54, 
+            "time": "  4:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 54, 
+            "time": "  4:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Observer"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 58, 
+            "time": "  4:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 62, 
+            "time": "  4:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 62, 
+            "time": "  4:54", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Immortal"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 68, 
+            "time": "  5:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x4"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 69, 
+            "time": "  5:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 72, 
+            "time": "  5:28", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Immortal"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 76, 
+            "time": "  5:44", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Nexus"
+        }
+    ]
+}

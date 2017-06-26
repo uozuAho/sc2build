@@ -1,0 +1,121 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Cheese", 
+    "name": "Fast 4gate With Proxy 5th (Easy wins to Plat) (PvX Cheese)", 
+    "url": "http://lotv.spawningtool.com/build/9947/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:18", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  0:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:15", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:29", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  1:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  2:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 25, 
+            "time": "  2:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  3:17", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  3:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  3:55", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stalker x5"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 45, 
+            "time": "  4:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Cheese", 
+    "name": "Proxy 4 gate adept :D (PvZ Cheese)", 
+    "url": "http://lotv.spawningtool.com/build/46077/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 16, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x4"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Gate"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x4"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  ", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Mothership Core"
+        }
+    ]
+}

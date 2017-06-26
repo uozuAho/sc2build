@@ -1,0 +1,153 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Timing Attack", 
+    "name": "Mcanning PvZ How to Protoss, THE 9 DT build  (PvZ Timing Attack)", 
+    "url": "http://lotv.spawningtool.com/build/8626/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Nexus"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  1:42", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:03", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 26, 
+            "time": "  2:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zealot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 30, 
+            "time": "  2:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Gate"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 32, 
+            "time": "  3:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stalker"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 32, 
+            "time": "  3:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 38, 
+            "time": "  3:19", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Twilight Council"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 47, 
+            "time": "  3:58", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 47, 
+            "time": "  4:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Dark Shrine"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 47, 
+            "time": "  4:09", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 52, 
+            "time": "  4:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x6"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 55, 
+            "time": "  5:22", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Robotics Facility"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 56, 
+            "time": "  5:47", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Dark Templar x9"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 75, 
+            "time": "  6:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Unknown"
+        }
+    ]
+}

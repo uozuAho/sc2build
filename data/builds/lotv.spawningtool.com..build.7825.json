@@ -1,0 +1,217 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "Timing Attack", 
+    "name": "A Basic Zerg Build for LotV (ZvZ Timing Attack)", 
+    "url": "http://lotv.spawningtool.com/build/7825/", 
+    "race": "Zerg", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 12, 
+            "time": "  0:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:09", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:13", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Extractor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:16", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:33", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Spawning Pool"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:42", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Extractor"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 13, 
+            "time": "  0:43", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:52", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  1:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Queen"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  1:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x4"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  1:27", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:34", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  1:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:07", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:25", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Queen"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:34", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:35", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x8"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  2:45", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Overlord"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 29, 
+            "time": "  3:05", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x8"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 30, 
+            "time": "  3:21", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zergling x6"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 32, 
+            "time": "  3:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 32, 
+            "time": "  3:29", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 33, 
+            "time": "  3:38", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone x2"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 33, 
+            "time": "  3:39", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Drone x2"
+        }
+    ]
+}

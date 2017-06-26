@@ -1,0 +1,209 @@
+{
+    "py/object": "sc2_build_order.BuildOrder", 
+    "category": "All-In", 
+    "name": "PvZ Immortal+Chargelot all in, Strong+Simple (PvZ All-In)", 
+    "url": "http://lotv.spawningtool.com/build/9180/", 
+    "race": "Protoss", 
+    "steps": [
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 14, 
+            "time": "  0:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 15, 
+            "time": "  0:41", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 17, 
+            "time": "  1:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 19, 
+            "time": "  1:26", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Nexus"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 20, 
+            "time": "  1:48", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Cybernetics Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 21, 
+            "time": "  1:50", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 22, 
+            "time": "  2:01", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Assimilator"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 24, 
+            "time": "  2:13", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zealot"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 26, 
+            "time": "  2:23", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Mothership Core"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 27, 
+            "time": "  2:32", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Gate"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 31, 
+            "time": "  2:47", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Stalker"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 34, 
+            "time": "  3:00", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Robotics Facility"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 38, 
+            "time": "  3:27", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x3"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 41, 
+            "time": "  3:46", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Warp Prism"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 49, 
+            "time": "  4:15", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 53, 
+            "time": "  4:27", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Immortal"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 53, 
+            "time": "  4:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Adept x4"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 59, 
+            "time": "  4:40", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Twilight Council"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 60, 
+            "time": "  4:57", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Immortal"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 61, 
+            "time": "  5:20", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Charge"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 63, 
+            "time": "  5:37", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Immortal"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 64, 
+            "time": "  5:38", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Gateway x5"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 65, 
+            "time": "  6:10", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Pylon x3"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 66, 
+            "time": "  6:29", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Zealot x9"
+        }, 
+        {
+            "py/object": "sc2_build_order.BuildStep", 
+            "supply_filled": 70, 
+            "time": "  6:30", 
+            "gameloop": null, 
+            "supply_available": 0, 
+            "unit": "Sentry x3"
+        }
+    ]
+}
